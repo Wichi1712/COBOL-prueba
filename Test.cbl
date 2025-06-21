@@ -44,7 +44,7 @@
             ADD WKS-NUMERO-1 TO WKS-NUMERO-2.
             DISPLAY "La suma de ambos numeros es: " WKS-NUMERO-2.
 
-      *      STOP "PAUSA".--Obsoleto
-            STOP RUN.
-      * END PROGRAM MI-PRIMER-PROGRAMA.
+      *     STOP "PAUSA".--Obsoleto
+          STOP RUN.
+      *END PROGRAM MI-PRIMER-PROGRAMA.
        STOP RUN.
